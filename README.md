@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Internet Of Things;Smart Energy Metering Data Solutions;Research and Development;Artificial intelligence;Special projects&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Internet%20Of%20Things;Smart%20Energy%20Metering%20Data%20Solutions;Research%20And%20Development;Artificial%20Intelligence;Special%20Projects&center=true&width=500&height=50"></a>
 </p>
 
 ### 👨‍💻&nbsp;About Me
